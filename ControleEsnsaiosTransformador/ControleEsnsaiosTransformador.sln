@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEsnsaiosTransformador", "ControleEsnsaiosTransformador\ControleEsnsaiosTransformador.csproj", "{DCF72160-B19A-4D15-BED9-5CDB8517B72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF72160-B19A-4D15-BED9-5CDB8517B72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF72160-B19A-4D15-BED9-5CDB8517B72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF72160-B19A-4D15-BED9-5CDB8517B72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF72160-B19A-4D15-BED9-5CDB8517B72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987F3DB9-698C-4CB3-872F-5EDE4505D7B0}
+	EndGlobalSection
+EndGlobal
